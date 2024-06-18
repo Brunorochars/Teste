@@ -1,0 +1,3 @@
+arquivo .gitignore faz com que todos os arquivos listados nele, nao sejam commitados.
+
+temp/
